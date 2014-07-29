@@ -1,0 +1,52 @@
+body {
+	width: 1143px;
+	height: 183px;
+	display: block;
+	background-color: #e5e5e5;
+}
+
+#Logo_image {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-right: 30px;
+	padding-left: 30px;
+	width: 183px;
+	height: 58px;
+	float: left;
+}
+
+#google {
+	width: 183px;
+	height: 39px;
+	margin-top: 8px;
+}
+
+#Search_bar {
+	float: left;
+	display: inline;
+	width: 569px;
+	height: 60px;
+}
+
+#search_button {
+	margin-top: 10px;
+	background-color: #4285f4;
+	width: 58px;
+	height: 30px;
+	border: 1px solid transparent;
+	border-radius: 2px;
+	float: left;
+}
+
+input {
+	margin-top: 10px;
+	width: 492px;
+	height: 24px;
+	float: left;
+
+}
+
+ul{﻿﻿
+list-style : none;
+list-style-type: none;
+}
